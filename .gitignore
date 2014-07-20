@@ -21,5 +21,3 @@ release/
 *.a
 
 # Unreal Engine 4
-Binaries/
-Build/
