@@ -5,6 +5,7 @@ release/
 *.opensdf
 *.sdf
 *.suo
+*.sln
 
 # Compiled Object files
 *.slo
