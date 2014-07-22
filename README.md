@@ -1,7 +1,7 @@
 Darkefact
 =========
 
-Getting Started
+#Getting Started
 _________
 
 This project requires Visual Studio 2013 (even if you don't code), you can get a free version here: http://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx
